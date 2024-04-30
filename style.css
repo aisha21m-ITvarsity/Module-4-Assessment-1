@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding-left: 0;
+    width: 100%;
+    background-color: black;
+}
+
+#left-column{
+    width: 65%;
+    float: left;
+    background-color: lightgoldenrodyellow;
+    padding-left: 20px;
+}
+
+#right-column img{
+    width: 230px;
+    margin-left: 140px;
+    margin-top: 130px;
+}
+
+img#logo{
+    position: fixed;
+    width: 200px;
+    bottom: 20px;
+    right: 10px;
+}
+
+#eyes h1{
+    margin-bottom: -10px;
+}
